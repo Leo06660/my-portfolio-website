@@ -1,5 +1,5 @@
 # 💻  Portfolio Website  💻
-https://admiring-knuth-39d108.netlify.app/
+https://leo06660.github.io/leo-portfolio/
 
 
 ## Features
